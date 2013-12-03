@@ -1,4 +1,4 @@
-towers_of_hanoi_ui
+Towers of Hanoi
 ==================
 To play, download files, and drag the html file into your browser.
 
